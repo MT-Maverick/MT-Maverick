@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MT-Maverick
+- 👋 Hi, I’m sindane_mt
 - 👀 I’m interested in java and javascript 
 - 🌱 I’m currently learning three.js 
 
