@@ -1,6 +1,6 @@
-- 👋 Hi, I’m sindane_mt
-- 👀 I’m interested in java and javascript 
-- 🌱 I’m currently learning three.js 
+- 👋 Hi, I’m Mfundo Sindane
+- 👀 I’m interested in java and python
+- 🌱 I’m currently learning data_analysis
 
 <!---
 MT-Maverick/MT-Maverick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
